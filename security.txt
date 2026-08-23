@@ -1,3 +1,0 @@
-Contact: https://github.com/mrk-77
-Preferred-Languages: en, fa
-Canonical: https://mrk-77.github.io/security.txt
