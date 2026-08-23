@@ -1,0 +1,4 @@
+Contact: mailto:YOUR_EMAIL
+Preferred-Languages: en, fa
+Canonical: https://USERNAME.github.io/security.txt
+Policy: https://USERNAME.github.io/security-policy/
