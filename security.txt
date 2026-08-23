@@ -1,4 +1,0 @@
-Contact: mailto:your@email.com
-Preferred-Languages: en, fa
-Canonical: https://mrk-77.github.io/security.txt
-Policy: https://mrk-77.github.io/security-policy/
