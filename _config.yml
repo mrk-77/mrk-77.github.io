@@ -1,0 +1,21 @@
+title: "MREZA DEV"
+description: "Security Research & Engineering"
+url: "https://mrk-77.github.io"
+baseurl: ""
+author:
+  name: "MRK-77"
+  email: ""
+  bio: "Security Engineer & Researcher"
+
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:title/
+timezone: UTC
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - LICENSE
