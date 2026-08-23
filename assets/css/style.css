@@ -41,7 +41,7 @@ button,a{touch-action:manipulation}
 .eyebrow,.section-kicker,.post-category,.project-tag{font:600 10px/1.2 ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace;letter-spacing:.1em;text-transform:uppercase}
 .eyebrow{color:var(--cyan);display:flex;align-items:center;gap:9px}
 .status-dot{width:7px;height:7px;border-radius:50%;background:var(--green);box-shadow:0 0 14px var(--green)}
-.hero h1{font-size:clamp(40px,5.2vw,72px);line-height:1.03;letter-spacing:-.055em;margin:22px 0 18px}
+.hero h1{font-size:clamp(40px,4vw,72px);line-height:1.03;letter-spacing:-.055em;margin:22px 0 18px}
 .hero h1 span{color:var(--cyan)}
 .hero-text{max-width:610px;color:var(--muted);font-size:17px;line-height:1.8}
 .hero-actions{display:flex;gap:12px;margin-top:30px}
