@@ -1,0 +1,12 @@
+title: "Your Name"
+description: "Security Research & Engineering"
+url: "https://USERNAME.github.io"
+
+theme: minima
+
+author:
+  name: "Your Name"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
