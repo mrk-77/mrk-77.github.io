@@ -1,0 +1,8 @@
+```
+_posts/.DS_Store
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+```

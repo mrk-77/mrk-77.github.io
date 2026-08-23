@@ -5,6 +5,12 @@ description: "Technical articles on cybersecurity, AI security, Red Teaming, Win
 permalink: /blog/
 ---
 
+<div class="page-hero">
+  <h1>Blog</h1>
+  <small>Security Articles & Insights</small>
+  <p>Technical articles on cybersecurity, AI security, Red Teaming, Windows, networking and DevSecOps.</p>
+</div>
+
 <div class="post-list">
 {% for post in site.posts %}
   <a class="list-card blog-list-card" href="{{ post.url | relative_url }}">
