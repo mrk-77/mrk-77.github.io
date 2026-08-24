@@ -3,7 +3,14 @@ layout: page
 title: Blog
 description: "Technical articles on cybersecurity, AI security, Red Teaming, Windows, networking and DevSecOps."
 permalink: /blog/
+hide_hero: true
 ---
+
+<div class="page-hero">
+  <h1>Blog</h1>
+  <small>Security Articles & Insights</small>
+  <p>Technical articles on cybersecurity, AI security, Red Teaming, Windows, networking and DevSecOps.</p>
+</div>
 
 <div class="post-list">
 {% for post in site.posts %}

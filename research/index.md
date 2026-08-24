@@ -3,7 +3,14 @@ layout: page
 title: Research
 description: "Deep technical research into modern attack surfaces, defensive engineering and emerging security technologies."
 permalink: /research/
+hide_hero: true
 ---
+
+<div class="page-hero">
+  <h1>Research</h1>
+  <small>Technical Research & Analysis</small>
+  <p>Deep technical research into modern attack surfaces, defensive engineering and emerging security technologies.</p>
+</div>
 
 <div class="feature-grid">
   <a class="feature-card cyan" href="#published-research"><div class="feature-image"><img src="{{ '/assets/images/ai.svg' | relative_url }}" alt="AI security research preview" loading="lazy"></div><div class="feature-icon">AI</div><h3>AI Security</h3><p>LLM security, RAG, agent security, prompt injection, MCP and AI threat modeling.</p></a>

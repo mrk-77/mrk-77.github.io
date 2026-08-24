@@ -86,6 +86,7 @@ button,a{touch-action:manipulation}
 .feature-card.red .feature-icon{background:rgba(255,91,114,.1);color:var(--red)}.feature-card.green .feature-icon{background:rgba(49,231,160,.1);color:var(--green)}.feature-card.purple .feature-icon{background:rgba(170,130,255,.1);color:var(--purple)}
 
 .page-hero{padding:82px 0 55px;max-width:850px}.page-hero h1{font-size:clamp(42px,5vw,58px);line-height:1.05;letter-spacing:-.05em;margin:18px 0 10px}.page-hero p{color:var(--muted);font-size:17px;line-height:1.8}
+.page-hero small{display:block;font-size:13px;color:var(--muted);margin-top:6px;font-weight:400;letter-spacing:.05em;text-transform:uppercase;opacity:.8}
 .page-content{padding-bottom:80px}.post-list{display:grid;gap:13px}.list-card{padding:23px;display:flex;justify-content:space-between;align-items:center;transition:.2s}.list-card:hover{border-color:var(--line-strong);transform:translateX(3px)}.list-card h2{margin:0 0 8px;font-size:21px;letter-spacing:-.02em}.arrow-link{font-size:23px;color:#8298aa;padding:15px}.arrow-link:hover{color:var(--cyan)}.subheading{margin:54px 0 19px;font-size:24px}
 .project-grid,.resource-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.resource-grid{grid-template-columns:repeat(2,1fr)}
 .project-card,.resource-card{padding:26px;display:block;transition:.22s ease}.project-card h3,.resource-card h3{font-size:21px;margin:5px 0 10px;letter-spacing:-.025em}.project-card p{min-height:68px}

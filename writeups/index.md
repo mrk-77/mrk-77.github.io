@@ -3,7 +3,14 @@ layout: page
 title: Writeups
 description: "Red team engagements, CTFs, labs and technical security breakdowns."
 permalink: /writeups/
+hide_hero: true
 ---
+
+<div class="page-hero">
+  <h1>Writeups</h1>
+  <small>Pentesting & CTF Writeups</small>
+  <p>Red team engagements, CTFs, labs and technical security breakdowns.</p>
+</div>
 
 <div class="feature-grid">
   <a class="feature-card red" href="#latest-writeups"><div class="feature-image"><img src="{{ '/assets/images/writeup.svg' | relative_url }}" alt="Red team preview" loading="lazy"></div><div class="feature-icon">◎</div><h3>Red Team</h3><p>Adversary simulation, attack paths, tradecraft and detection-aware operations.</p></a>
