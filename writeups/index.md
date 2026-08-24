@@ -3,6 +3,7 @@ layout: page
 title: Writeups
 description: "Red team engagements, CTFs, labs and technical security breakdowns."
 permalink: /writeups/
+hide_hero: true
 ---
 
 <div class="page-hero">

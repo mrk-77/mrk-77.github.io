@@ -3,6 +3,7 @@ layout: page
 title: Research
 description: "Deep technical research into modern attack surfaces, defensive engineering and emerging security technologies."
 permalink: /research/
+hide_hero: true
 ---
 
 <div class="page-hero">

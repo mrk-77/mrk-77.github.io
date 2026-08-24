@@ -3,6 +3,7 @@ layout: page
 title: Blog
 description: "Technical articles on cybersecurity, AI security, Red Teaming, Windows, networking and DevSecOps."
 permalink: /blog/
+hide_hero: true
 ---
 
 <div class="page-hero">
