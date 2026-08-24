@@ -111,7 +111,7 @@ button,a{touch-action:manipulation}
 .card-image{margin:-26px -26px 20px;height:145px}
 .list-card{display:grid;grid-template-columns:150px minmax(0,1fr) auto;gap:20px;padding:14px;align-items:center}
 .list-thumb{width:150px;height:145px;overflow:hidden;border:1px solid var(--line);border-radius:10px;background:#06111b}
-.blog-list-card{grid-template-columns:220px minmax(0,1fr);padding:14px;gap:24px}.blog-list-card .list-thumb{width:220px;height:145px;grid-column:1;grid-row:1}.blog-list-card .list-copy{grid-column:2;grid-row:1}.blog-list-card .post-meta{margin-top:15px}
+.blog-list-card{grid-template-columns:170px minmax(0,1fr);padding:14px;gap:24px}.blog-list-card .list-thumb{width:170px;height:145px;grid-column:1;grid-row:1}.blog-list-card .list-copy{grid-column:2;grid-row:1}.blog-list-card .post-meta{margin-top:15px}
 .feature-card .feature-icon{position:relative;z-index:1}
 .feature-card p{margin-bottom:10px}
 .project-card,.resource-card{overflow:hidden}
