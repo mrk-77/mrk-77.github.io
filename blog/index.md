@@ -15,6 +15,7 @@ hide_hero: true
 <div class="post-list">
 {% for post in site.posts %}
   <a class="list-card blog-list-card" href="{{ post.url | relative_url }}">
+    <div class="list-thumb"><img src="{{ '/assets/images/security.svg' | relative_url }}" alt="{{ post.title }} preview" loading="lazy"></div>
     <div class="list-copy">
       <div class="post-category">{{ post.categories | first | default: "Security" }}</div>
       <h2>{{ post.title }}</h2>
@@ -23,7 +24,6 @@ hide_hero: true
         <span>{{ post.date | date: "%b %d, %Y" }}</span><span>•</span><span>{{ post.read_time | default: "8 min" }} read</span>
       </div>
     </div>
-    <div class="list-thumb"><img src="{{ '/assets/images/security.svg' | relative_url }}" alt="{{ post.title }} preview" loading="lazy"></div>
   </a>
 {% endfor %}
 </div>
