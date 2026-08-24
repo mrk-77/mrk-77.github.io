@@ -14,20 +14,15 @@ build/
 target/
 
 # Dependencies
-node_modules/
-venv/
 .venv/
-.env
-.env.local
-.env.*
+venv/
+node_modules/
 .mypy_cache/
 .pytest_cache/
 .coverage
 coverage/
 htmlcov/
 .gradle/
-.julia/
-zig*/
 
 # Logs and temp files
 *.log
@@ -35,13 +30,22 @@ zig*/
 *.swp
 *.swo
 
+# Environment
+.env
+.env.local
+*.env.*
+
 # Editors
 .vscode/
 .idea/
-*.DS_Store
+*.swp
+*.swo
+
+# System files
+.DS_Store
 Thumbs.db
 
-# Archives
+# Compressed files
 *.zip
 *.gz
 *.tar
